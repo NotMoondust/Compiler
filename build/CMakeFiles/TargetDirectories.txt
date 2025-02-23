@@ -1,0 +1,3 @@
+/home/ReiAyanami/Documents/WarhammerCompilerAttempt2/build/CMakeFiles/40k.dir
+/home/ReiAyanami/Documents/WarhammerCompilerAttempt2/build/CMakeFiles/edit_cache.dir
+/home/ReiAyanami/Documents/WarhammerCompilerAttempt2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/40k.dir/src/main.cpp.o -o 40k
