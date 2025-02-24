@@ -1,0 +1,1 @@
+this is more of a challenge for myself following a video I found, if you actually want to look at the code and then make changes to suit your needs, go right ahead its there for you to do so. it is Open Source afterall
